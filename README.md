@@ -1,12 +1,12 @@
-# About the Census
+## About The Census
 
 The AIGA Design Census launched in December 2016, with the goal of collecting important information about today's Design industry. Data was collected for a 20-day period, and was published in January 2017 by the AIGA. Designers have been invited to analyze the data, and submit data visualizations and infographics to an [online gallery](http://designcensus.org/#!/gallery/?id=14365) hosted by AIGA. The platform of the Design Census is a collaboration between the AIGA and Google Design.
 
-# About This Repository
+## About This Repository
 
 The work in this repository is part of a series of posts being published on Medium, providing analysis and commentary on the Design Ceneus. For explanation and context on the files available here please refer to the following pieces:
 * Part 1 - [Participation](https://medium.com/@archiebagnall/aiga-design-census-1-b2c38132c8c5)
-* Part 2 - [Accessibility](https://maven.apache.org/)
+* Part 2 - [Accessible Data](https://medium.com/@archiebagnall/aiga-design-census-2-45b7afec7030)
 
 ## Acknowledgments & Credits
 
@@ -20,5 +20,5 @@ The work in this repository is part of a series of posts being published on Medi
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-# Questions?
+## Questions?
 Get in touch: [mail@archiebagnall.co.uk](mailto:mail@archiebagnall.co.uk)
