@@ -1,6 +1,6 @@
 ## About The Census
 
-The AIGA Design Census launched in December 2016, with the goal of collecting important information about today's Design industry. Data was collected for a 20-day period, and was published in January 2017 by the AIGA. Designers have been invited to analyze the data, and submit data visualizations and infographics to an [online gallery](http://designcensus.org/#!/gallery/?id=14365) hosted by AIGA. The platform of the Design Census is a collaboration between AIGA and Google Design.
+The AIGA Design Census launched in December 2016, with the goal of collecting important information about today's Design industry. Data was collected for a 20-day period, and was published in January 2017 by the AIGA. Designers have been invited to analyze the data, and submit data visualizations and infographics to an [online gallery](http://designcensus.org/#!/gallery/?id=14365) hosted by AIGA. The Design Census is a collaboration between AIGA and Google Design.
 
 ## About This Repository
 
