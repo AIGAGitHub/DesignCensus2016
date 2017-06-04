@@ -7,6 +7,7 @@ The AIGA Design Census launched in December 2016, with the goal of collecting im
 The work in this repository is contributing to a series of posts being published on Medium, providing analysis and commentary on the Design Census. For explanation and context on the files available here please refer to the following:
 * Part 1 - [Participation](https://medium.com/@archiebagnall/aiga-design-census-1-b2c38132c8c5)
 * Part 2 - [Accessible Data](https://medium.com/@archiebagnall/aiga-design-census-2-45b7afec7030)
+* Part 3 - [The Puzzle of Pay](https://medium.com/aiga-orange-county/aiga-design-census-2016-the-puzzle-of-pay-ac09a634933e)
 
 ## Acknowledgments & Credits
 
