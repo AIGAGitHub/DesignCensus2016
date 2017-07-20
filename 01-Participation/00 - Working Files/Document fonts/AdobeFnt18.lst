@@ -1,0 +1,290 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Archie\Desktop\GitHub\DesignCensus2016\01-Participation\00 - Working Files\Document fonts\LICENSE_OFL.txt
+FileModTime:1498934428
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoMono
+FamilyName:Noto Mono
+StyleName:Regular
+FullName:Noto Mono
+MenuName:Noto Mono
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Archie\Desktop\GitHub\DesignCensus2016\01-Participation\00 - Working Files\Document fonts\NotoMono-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:107848
+FileModTime:1498934428
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSans-Bold
+FamilyName:Noto Sans
+StyleName:Bold
+FullName:Noto Sans Bold
+MenuName:Noto Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Archie\Desktop\GitHub\DesignCensus2016\01-Participation\00 - Working Files\Document fonts\NotoSans-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:310556
+FileModTime:1498934428
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSans-BoldItalic
+FamilyName:Noto Sans
+StyleName:Bold Italic
+FullName:Noto Sans Bold Italic
+MenuName:Noto Sans
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Archie\Desktop\GitHub\DesignCensus2016\01-Participation\00 - Working Files\Document fonts\NotoSans-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:289548
+FileModTime:1498934428
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Noto Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSans-Italic
+FamilyName:Noto Sans
+StyleName:Italic
+FullName:Noto Sans Italic
+MenuName:Noto Sans
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Archie\Desktop\GitHub\DesignCensus2016\01-Participation\00 - Working Files\Document fonts\NotoSans-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:278608
+FileModTime:1498934428
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Noto Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSans
+FamilyName:Noto Sans
+StyleName:Regular
+FullName:Noto Sans
+MenuName:Noto Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Archie\Desktop\GitHub\DesignCensus2016\01-Participation\00 - Working Files\Document fonts\NotoSans-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:305872
+FileModTime:1498934428
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSansUI-Bold
+FamilyName:Noto Sans UI
+StyleName:Bold
+FullName:Noto Sans UI Bold
+MenuName:Noto Sans UI
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Archie\Desktop\GitHub\DesignCensus2016\01-Participation\00 - Working Files\Document fonts\NotoSansUI-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:310580
+FileModTime:1498934428
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans UI
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSansUI-BoldItalic
+FamilyName:Noto Sans UI
+StyleName:Bold Italic
+FullName:Noto Sans UI Bold Italic
+MenuName:Noto Sans UI
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Archie\Desktop\GitHub\DesignCensus2016\01-Participation\00 - Working Files\Document fonts\NotoSansUI-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:289568
+FileModTime:1498934428
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Noto Sans UI
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSansUI-Italic
+FamilyName:Noto Sans UI
+StyleName:Italic
+FullName:Noto Sans UI Italic
+MenuName:Noto Sans UI
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Archie\Desktop\GitHub\DesignCensus2016\01-Participation\00 - Working Files\Document fonts\NotoSansUI-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:278632
+FileModTime:1498934428
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Noto Sans UI
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSansUI
+FamilyName:Noto Sans UI
+StyleName:Regular
+FullName:Noto Sans UI
+MenuName:Noto Sans UI
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Archie\Desktop\GitHub\DesignCensus2016\01-Participation\00 - Working Files\Document fonts\NotoSansUI-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:305888
+FileModTime:1498934428
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans UI
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif-Bold
+FamilyName:Noto Serif
+StyleName:Bold
+FullName:Noto Serif Bold
+MenuName:Noto Serif
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Archie\Desktop\GitHub\DesignCensus2016\01-Participation\00 - Working Files\Document fonts\NotoSerif-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:400056
+FileModTime:1498934428
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif-BoldItalic
+FamilyName:Noto Serif
+StyleName:Bold Italic
+FullName:Noto Serif Bold Italic
+MenuName:Noto Serif
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Archie\Desktop\GitHub\DesignCensus2016\01-Participation\00 - Working Files\Document fonts\NotoSerif-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:364404
+FileModTime:1498934428
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Noto Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif-Italic
+FamilyName:Noto Serif
+StyleName:Italic
+FullName:Noto Serif Italic
+MenuName:Noto Serif
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Archie\Desktop\GitHub\DesignCensus2016\01-Participation\00 - Working Files\Document fonts\NotoSerif-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:354040
+FileModTime:1498934428
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Noto Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif
+FamilyName:Noto Serif
+StyleName:Regular
+FullName:Noto Serif
+MenuName:Noto Serif
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Archie\Desktop\GitHub\DesignCensus2016\01-Participation\00 - Working Files\Document fonts\NotoSerif-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:379600
+FileModTime:1498934428
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Archie\Desktop\GitHub\DesignCensus2016\01-Participation\00 - Working Files\Document fonts\README
+FileModTime:1498934428
+%EndFont
+
