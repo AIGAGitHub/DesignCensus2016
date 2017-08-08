@@ -1,0 +1,108 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoMono
+FamilyName:Noto Mono
+StyleName:Regular
+FullName:Noto Mono
+MenuName:Noto Mono
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\bagnall\Downloads\England\Census\04-Diversity_and_Inclusion\Gender-Figures-V1 Folder\Document fonts\NotoMono-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:107848
+FileModTime:1500571949
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSans-Bold
+FamilyName:Noto Sans
+StyleName:Bold
+FullName:Noto Sans Bold
+MenuName:Noto Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\bagnall\Downloads\England\Census\04-Diversity_and_Inclusion\Gender-Figures-V1 Folder\Document fonts\NotoSans-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:310556
+FileModTime:1500571949
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSans
+FamilyName:Noto Sans
+StyleName:Regular
+FullName:Noto Sans
+MenuName:Noto Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\bagnall\Downloads\England\Census\04-Diversity_and_Inclusion\Gender-Figures-V1 Folder\Document fonts\NotoSans-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:305872
+FileModTime:1500571949
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSansUI-Bold
+FamilyName:Noto Sans UI
+StyleName:Bold
+FullName:Noto Sans UI Bold
+MenuName:Noto Sans UI
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\bagnall\Downloads\England\Census\04-Diversity_and_Inclusion\Gender-Figures-V1 Folder\Document fonts\NotoSansUI-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:310580
+FileModTime:1500571950
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans UI
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSansUI
+FamilyName:Noto Sans UI
+StyleName:Regular
+FullName:Noto Sans UI
+MenuName:Noto Sans UI
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\bagnall\Downloads\England\Census\04-Diversity_and_Inclusion\Gender-Figures-V1 Folder\Document fonts\NotoSansUI-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:305888
+FileModTime:1500571950
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans UI
+%EndFont
+
