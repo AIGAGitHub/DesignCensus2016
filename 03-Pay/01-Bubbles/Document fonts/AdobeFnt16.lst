@@ -1,0 +1,43 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSans-Bold
+FamilyName:Noto Sans
+StyleName:Bold
+FullName:Noto Sans Bold
+MenuName:Noto Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\bagnall\Documents\GitHub\DesignCensus2016\03-Pay\Figure 3\Charts\Document fonts\NotoSans-Bold.ttf
+DataFormat:sfntData
+FileLength:310556
+FileModTime:1494552894
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSans
+FamilyName:Noto Sans
+StyleName:Regular
+FullName:Noto Sans
+MenuName:Noto Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\bagnall\Documents\GitHub\DesignCensus2016\03-Pay\Figure 3\Charts\Document fonts\NotoSans-Regular.ttf
+DataFormat:sfntData
+FileLength:305872
+FileModTime:1494552895
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans
+%EndFont
+

@@ -1,0 +1,63 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoMono
+FamilyName:Noto Mono
+StyleName:Regular
+FullName:Noto Mono
+MenuName:Noto Mono
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\BACKUP\00\DesignCensus2016-master-v3\Map-V2 Folder\Document fonts\NotoMono-Regular.ttf
+DataFormat:sfntData
+FileLength:107848
+FileModTime:1487920836
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSansUI-Bold
+FamilyName:Noto Sans UI
+StyleName:Bold
+FullName:Noto Sans UI Bold
+MenuName:Noto Sans UI
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\BACKUP\00\DesignCensus2016-master-v3\Map-V2 Folder\Document fonts\NotoSansUI-Bold.ttf
+DataFormat:sfntData
+FileLength:310580
+FileModTime:1487920786
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans UI
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSansUI
+FamilyName:Noto Sans UI
+StyleName:Regular
+FullName:Noto Sans UI
+MenuName:Noto Sans UI
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\BACKUP\00\DesignCensus2016-master-v3\Map-V2 Folder\Document fonts\NotoSansUI-Regular.ttf
+DataFormat:sfntData
+FileLength:305888
+FileModTime:1487920786
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans UI
+%EndFont
+
